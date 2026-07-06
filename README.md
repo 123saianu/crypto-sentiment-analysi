@@ -1,5 +1,6 @@
 # 📊 Bitcoin Market Sentiment vs Trader Performance Analysis
-
+## Need to download Historical_data which was not uploaded due to its size.
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 ## 📌 Project Overview
 
 This project analyzes the relationship between **Bitcoin Market Sentiment (Fear & Greed Index)** and **historical trader performance** on the Hyperliquid exchange.
